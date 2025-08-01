@@ -2,7 +2,9 @@
 
 Ixio is a modern, user-friendly desktop application for flashing ISO files to USB drives across Windows, macOS, and Linux. Built with Tauri v2, SvelteKit, and TypeScript, it will provide a comprehensive solution for creating bootable USB drives with advanced features and safety controls.
 
-*This project is currently in active development.*
+🔄 **🚧 UNDER ACTIVE DEVELOPMENT 🚧** 🔄
+
+> *This project is currently in active development and features are being implemented.*
 
 ## 🚀 Features
 
@@ -85,15 +87,19 @@ ixio/
 ```
 
 
-## ⚠️ Disclaimer
+## ⚠️ **CRITICAL DISCLAIMER** ⚠️
 
-Ixio performs low-level disk operations that can result in data loss. Always backup important data before flashing USB drives. The developers are not responsible for any data loss or damage to hardware.
+🚨 **WARNING: Ixio performs low-level disk operations that can result in PERMANENT DATA LOSS!** 🚨
+
+**Always backup important data before flashing USB drives. The developers are NOT responsible for any data loss or damage to hardware.**
+
+> 💡 **Pro Tip**: Test on a spare USB drive first!
 
 ## 🆘 Support
 
 - **Issues**: [GitHub Issues](https://github.com/ajaikumarvs/ixio/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/ajaikumarvs/ixio/discussions)
-- **Documentation**: [Wiki](https://github.com/ajaikumarvs/ixio/wiki)
+- **Documentation**: [Wiki](https://github.com/ajaikumarvs/ixio/wiki) (coming soon)
 
 ---
 
