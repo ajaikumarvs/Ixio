@@ -48,7 +48,7 @@ Ixio is a modern, user-friendly desktop application for flashing ISO files to US
 ### Prerequisites
 - [Bun](https://bun.sh/) (latest version)
 - [Rust](https://rust-lang.org/) (latest stable)
-- [Tauri CLI v2](https://tauri.app/v2/guides/getting-started/setup/)
+- [Tauri v2](https://tauri.app/start/)
 
 ### Installation
 ```bash
